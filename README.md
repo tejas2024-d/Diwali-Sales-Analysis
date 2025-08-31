@@ -1,5 +1,3 @@
-# Diwali-Sales-Analysis
-This project analyzes Diwali sales data to uncover customer purchase behavior and provide actionable business insights. Using Python and popular data analysis libraries, I performed data cleaning, exploration, and visualization to identify key factors influencing product purchases during the festive season.
 # 📊 Diwali Sales Analysis  
 
 ## 📌 Project Overview  
@@ -49,7 +47,8 @@ The dataset contains transactional data of customers including:
 - Occupation vs. total purchase amount  
 - Product category preferences  
 
-![images]()  
+![images](https://github.com/tejas2024-d/Diwali-Sales-Analysis/blob/main/img_diwali_sales_analysis.png)  
 
 ---
+# THANK YOU 
 
